@@ -2,6 +2,7 @@
 
 This repository contains the implementation and analysis for identifying OCR-sensitive neurons in neural networks used for named entity recognition (NER) tasks on historical documents. The goal is to improve the robustness of NER models against OCR errors commonly found in digitized historical texts.
 
+This repository is the official implementation of the paper [**"Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents"**](https://arxiv.org/abs/2409.16934).
 ---
 
 ## Repository Structure
