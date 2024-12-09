@@ -30,15 +30,15 @@ Historical document digitization often introduces OCR errors that can hinder the
 
 ---
 The notebooks/ directory contains the following Jupyter notebooks for experiments and analysis:
-	1.	Data.ipynb:
-	•	Prepares synthetic OCR-induced tokens for experiments.
-	•	Simulates OCR errors to understand their impact on NER tasks.
-	2.	NoisyTextExperiments.ipynb:
-	•	Analyzes the prepared OCR tokens.
-	•	Passes tokens through LLaMA and Mistral models to identify OCR-sensitive regions and neurons.
-	3.	Llama-MistralNEREvaluation.ipynb:
-	•	Evaluates the results of NER experiments.
-	•	Visualizes results, focusing on the effect of neutralizing OCR-sensitive neurons.
+1. Data.ipynb:
+   - Prepares synthetic OCR-induced tokens for experiments.
+   - Simulates OCR errors to understand their impact on NER tasks.
+2. NoisyTextExperiments.ipynb:
+   - Analyzes the prepared OCR tokens.
+   - Passes tokens through LLaMA and Mistral models to identify OCR-sensitive regions and neurons.
+3. Llama-MistralNEREvaluation.ipynb:
+   - Evaluates the results of NER experiments.
+   - Visualizes results, focusing on the effect of neutralizing OCR-sensitive neurons.
 
 These notebooks provide an end-to-end exploration of OCR-sensitive neuron analysis, from data preparation to visualization of results.
 ---
