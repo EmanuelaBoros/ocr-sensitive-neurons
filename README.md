@@ -6,7 +6,7 @@ This repository contains the implementation and analysis for identifying OCR-sen
 
 ## Repository Structure
 
-
+```
 ocr-sensitive-neurons/
 ├── data/                # Example data for OCR and NER tasks
 ├── models/              # Pre-trained and fine-tuned models
@@ -17,7 +17,7 @@ ocr-sensitive-neurons/
 ├── requirements.txt     # Required Python packages
 ├── README.md            # Project documentation
 └── LICENSE              # License information
-
+```
 ---
 ## Introduction
 
