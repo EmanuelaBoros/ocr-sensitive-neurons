@@ -71,3 +71,14 @@ The `src/` folder contains the primary scripts for running Named Entity Recognit
 These scripts allow you to experiment with models, evaluate the effects of OCR-induced errors, and analyze how neutralizing neurons impacts NER accuracy and robustness.
 
 ---
+```
+@inproceedings{boros2024investigating,
+  title={Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents},
+  author={Boros, Emanuela and Ehrmann, Maud},
+  booktitle={International Conference on Asian Digital Libraries},
+  pages={54--66},
+  year={2024},
+  organization={Springer}
+}
+
+```
